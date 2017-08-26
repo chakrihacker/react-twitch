@@ -1,0 +1,23 @@
+{
+  "name": "twitch",
+  "description": "FreeCodeCamp Project",
+  "version": "0.0.222",
+  "dependencies": {
+    "redux-thunk": "2.2.0",
+    "redux-logger": "3.0.6",
+    "redux-devtools": "3.4.0",
+    "redux": "3.7.2",
+    "react-redux": "5.0.6",
+    "react-dom": "15.5.3",
+    "react": "15.5.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
